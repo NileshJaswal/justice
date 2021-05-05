@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'justice';
+    src: url('../font/JUSTICE\ LEAGUE.ttf');
+}
+
+@font-face {
+    font-family: 'coolvetica';
+    src: url(../font/coolvetica\ rg.ttf);
+}
+
+
+p{font-family: 'coolvetica', sans-serif;}
+h1{font-family: 'justice';}
+h5{font-family: 'justice';}
+
+.hero{
+    background: url(../img/hero.jpg) top no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+
+
+.hero .row img{margin-top: 80px;}
+.hero h1{
+    line-height: 80px;
+    color: #312B2D;
+    font-size: 58px;
+    font-weight: bold;
+    text-shadow: -3px 3px 2px rgb(0, 0, 0);
+}
+
+.hero span{color: #626667;}
+.hero p{color: #fff; font-size: 17px; font-weight: 500;}
+.topbar i{color: #fff;}
+
+.tabmod{
+    background-color: #141210;
+}
+.tab-content{padding: 0;}
+.md-tabs .nav-link.active, .md-tabs .nav-item.open .nav-link{background-color: rgba(106, 106, 106, 0.2); transform: scale(1.1);}
+
+.slider .maintxt{font-family: 'justice'; background: #000000; color: #fff; padding: 15px; margin-bottom: 0; padding-top: 70px;}
+.tabclr{background-color: #000000;}
+.md-tabs{border-radius: 0 0 .25rem .25rem;}
+.tabinfo{left: 12%; top: 20%; transform: scale(1.5); color: #fff;}
+.tabinfo span{color:#626667 ;}
+
+.info{background: url(../img/sideimg.jpg) no-repeat; background-size: cover;}
+.info h1{color: #fff;}
+.info p{color: #fff; font-size: 20px; letter-spacing: 1px;}
+.space1{padding: 154px 50px;}
