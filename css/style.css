@@ -56,6 +56,7 @@ h5{font-family: 'justice';}
     .hero .row img {margin-top: 70px; width: 62px !important;}
     .hero h1{font-size: 38px; line-height: 50px;}
     .hero .btn{padding: .84rem 1.04rem;}
+    .info{box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.6);}
     .space1 {padding: 64px 50px;}
     .slider {overflow: hidden;}
 }
