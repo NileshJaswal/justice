@@ -53,7 +53,7 @@ h5{font-family: 'justice';}
 
 @media screen and (max-width: 764px) {
     .hero{height: 340px;}
-    .hero .row img {margin-top: 70px; width: 62px !important;}
+    .hero .row img {display:none;}
     .hero h1{font-size: 38px; line-height: 50px;}
     .hero .btn{padding: .84rem 1.04rem;}
     .info{box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.6);}
