@@ -63,4 +63,5 @@ h5{font-family: 'justice';}
     .space1 {padding: 64px 30px;}
     .slider {overflow: hidden;}
     .nav-justified .nav-item{height: 65px;}
+    .md-tabs img{max-width: 100%; height: auto;}
 }
