@@ -62,4 +62,5 @@ h5{font-family: 'justice';}
     .info h1, .slider h1{font-size: 28px;}
     .space1 {padding: 64px 30px;}
     .slider {overflow: hidden;}
+    .nav-justified .nav-item{height: 65px;}
 }
