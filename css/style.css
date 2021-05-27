@@ -64,5 +64,5 @@ h5{font-family: 'justice';}
     .slider {overflow: hidden;}
     .nav-justified .nav-item{height: 65px;}
     .md-tabs img{max-width: 100%; height: auto;}
-    .md-tabs p{display:none;}
+    .nav-link p{display:none;}
 }
