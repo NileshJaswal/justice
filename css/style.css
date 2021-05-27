@@ -67,5 +67,5 @@ h5{font-family: 'justice';}
     .nav-link p{display:none;}
     .nav-link{padding:0 !important;}
     .nav-justified .nav-item{height:100% !important;}
-    .tabinfo{top:30%;}
+    .tabinfo{left: 2% !important; top: 30% !important; transform: scale(1) !important;}
 }
